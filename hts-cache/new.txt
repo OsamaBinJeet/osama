@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:10:58	31097/31097	---MCZ	200	added ('OK')	text/html	date:Mon,%2002%20Dec%202024%2003:05:09%20GMT	https://justaluckyinvestor.fun/	C:/My%20Web%20Sites/OsamaSan/justaluckyinvestor.fun/index.html	(from )
+22:10:58	91/91	---M-Z	200	added ('OK')	text/plain	etag:%224b-62840d1047c30-gzip%22	https://justaluckyinvestor.fun/robots.txt		(from )
+22:10:58	32259/32259	---M--	200	added ('OK')	image/jpeg	etag:%227e03-62840d0e5c100%22	https://justaluckyinvestor.fun/assets/images/card.jpg?v=a900952c	C:/My%20Web%20Sites/OsamaSan/justaluckyinvestor.fun/assets/images/card4c32.jpg	(from https://justaluckyinvestor.fun/)
+22:10:59	19710/19710	---M--	200	added ('OK')	image/jpeg	etag:%224cfe-62840c34770e8%22	https://justaluckyinvestor.fun/assets/images/bg.jpg?v=a900952c	C:/My%20Web%20Sites/OsamaSan/justaluckyinvestor.fun/assets/images/bg4c32.jpg	(from https://justaluckyinvestor.fun/)
